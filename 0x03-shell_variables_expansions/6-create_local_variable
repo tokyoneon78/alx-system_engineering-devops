@@ -1,7 +1,2 @@
 #!/bin/bash
-
-newFunction(){
 BEST = 'School'
-
-
-}
