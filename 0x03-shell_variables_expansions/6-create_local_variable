@@ -1,1 +1,2 @@
-#!/bin/basBEST = "School" 
+#!/bin/bash
+BEST = "School" 
